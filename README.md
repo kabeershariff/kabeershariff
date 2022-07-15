@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kabeershariff
 - 👀 I’m interested in Linux, Python.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open SOurce Projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : kabeershariff@protonmail.com
 
 <!---
