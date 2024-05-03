@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar Shariff
-- 👀 I’m interested in Linux, Python.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m interested in Linux, Python, Ethical Pentesting.
+- 🌱 I’m currently learning Linux.
+- 💞️ I’m looking to master Linux.
 - 📫 How to reach me : omarshariffofficial@gmail.com
 <!---
 kabeershariff/kabeershariff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
